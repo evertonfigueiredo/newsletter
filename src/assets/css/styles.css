@@ -1,0 +1,13 @@
+.img-log{
+    background-image: url(https://preview.colorlib.com/theme/bootstrap/login-form-14/images/xbg-1.jpg.pagespeed.ic.3OAd9jZTMD.webp)
+}
+
+.ftco-section{
+    padding: 0;
+}
+
+.ajuste-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
